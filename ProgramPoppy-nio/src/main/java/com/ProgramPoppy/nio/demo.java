@@ -1,4 +1,4 @@
-package nio_test_demo.test;
+package com.ProgramPoppy.nio;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -6,7 +6,7 @@ import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-public class test {
+public class demo {
     public static void main(String[] args) {
         test2();
     }
@@ -17,10 +17,10 @@ public class test {
         ByteBuffer byteBuffer = ByteBuffer.allocate(1024);
 
         /*
-        * 容量（capacity）表示该缓冲区最多可以存储多少字节数据；
-        * 限制（limit）表示该缓冲区中实际存储的数据大小；
-        * 位置（position）表示下一个要读取或写入的元素的位置，默认为 0。
-        * */
+         * 容量（capacity）表示该缓冲区最多可以存储多少字节数据；
+         * 限制（limit）表示该缓冲区中实际存储的数据大小；
+         * 位置（position）表示下一个要读取或写入的元素的位置，默认为 0。
+         * */
         //分配一个指定大小的缓冲区
         System.out.println("---------------------------allocate---------------------------");
         System.out.println(byteBuffer.capacity());
@@ -72,8 +72,8 @@ public class test {
 
     public static void test3() throws Exception {
         /*
-        * 推荐使用try方法
-        * */
+         * 推荐使用try方法
+         * */
         FileInputStream fis = new FileInputStream("a.txt");
         FileOutputStream fos = new FileOutputStream("b.txt");
         FileChannel fisChannel = fis.getChannel();

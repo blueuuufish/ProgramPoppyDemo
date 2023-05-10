@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>ProgramPoppy-Sentinel</module>
+        <module>ProgramPoppy-nio</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>
