@@ -9,6 +9,7 @@
     <modules>
         <module>ProgramPoppy-Sentinel</module>
         <module>ProgramPoppy-nio</module>
+        <module>programpoppy-netty</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>
