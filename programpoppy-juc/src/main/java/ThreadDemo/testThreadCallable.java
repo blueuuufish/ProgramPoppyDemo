@@ -19,5 +19,14 @@ public class testThreadCallable {
         * */
         Integer result = task.get();
         System.out.println(result);
+
+
+        FutureTask<String> stringFutureTask = new FutureTask<>(() -> {
+            System.out.println(Thread.currentThread().getName());
+            return "hello Thread";
+        });
+
+        new Thread(stringFutureTask, "lucky").start();
+        System.out.println(stringFutureTask.get());
     }
 }
