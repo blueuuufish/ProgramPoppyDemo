@@ -2,17 +2,24 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="programpoppy-javaSE" />
         <module name="ProgramPoppy-Sentinel" />
-        <module name="programpoppy-juc" />
         <module name="programpoppy-netty" />
+        <module name="programpoppy-springbootdemo" />
+        <module name="programpoppy-juc" />
         <module name="programpoppy-log4j2" />
         <module name="ProgramPoppy-nio" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="programpoppy-springbootdemo" options="-parameters" />
+    </option>
   </component>
 </project>
