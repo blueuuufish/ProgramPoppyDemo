@@ -13,6 +13,7 @@
         <module>programpoppy-juc</module>
         <module>programpoppy-javaSE</module>
         <module>programpoppy-log4j2</module>
+        <module>programpoppy-asyTool</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>
