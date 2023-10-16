@@ -10,6 +10,7 @@
         <module name="programpoppy-javaSE" />
         <module name="ProgramPoppy-Sentinel" />
         <module name="programpoppy-netty" />
+        <module name="programpoppy-annotation" />
         <module name="programpoppy-springbootdemo" />
         <module name="programpoppy-asyTool" />
         <module name="programpoppy-juc" />
