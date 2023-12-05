@@ -15,6 +15,7 @@
         <module>programpoppy-log4j2</module>
         <module>programpoppy-asyTool</module>
         <module>programpoppy-annotation</module>
+        <module>programpoppy-JVM</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>

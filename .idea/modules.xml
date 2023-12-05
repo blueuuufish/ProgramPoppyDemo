@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/programpoppy-javaSE.iml" filepath="$PROJECT_DIR$/programpoppy-javaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramPoppyDemo.iml" filepath="$PROJECT_DIR$/ProgramPoppyDemo.iml" />
     </modules>
   </component>
 </project>
