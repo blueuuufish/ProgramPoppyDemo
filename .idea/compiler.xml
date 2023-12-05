@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="programpoppy-javaSE" />
         <module name="ProgramPoppy-Sentinel" />
+        <module name="programpoppy-JVM" />
         <module name="programpoppy-netty" />
         <module name="programpoppy-annotation" />
         <module name="programpoppy-springbootdemo" />
@@ -18,6 +19,10 @@
         <module name="ProgramPoppy-nio" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="programpoppu" target="17" />
+      <module name="programpoppy-thread" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
