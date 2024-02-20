@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="programpoppy-javaSE" />
+        <module name="programpoppy-Redis" />
         <module name="ProgramPoppy-Sentinel" />
         <module name="programpoppy-JVM" />
         <module name="programpoppy-netty" />
@@ -26,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="programpoppy-Redis" options="-parameters" />
       <module name="programpoppy-springbootdemo" options="-parameters" />
     </option>
   </component>
