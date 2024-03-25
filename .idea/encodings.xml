@@ -7,11 +7,15 @@
     <file url="file://$PROJECT_DIR$/ProgramPoppy-nio/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-JVM/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-JVM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programpoppy-Job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programpoppy-Job/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-Redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-asyTool/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-asyTool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programpoppy-dubboDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programpoppy-dubboDemo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-javaSE/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-javaSE/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-juc/src/main/java" charset="UTF-8" />
@@ -20,6 +24,8 @@
     <file url="file://$PROJECT_DIR$/programpoppy-log4j2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-netty/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-netty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programpoppy-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programpoppy-spring-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/programpoppy-springbootdemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />

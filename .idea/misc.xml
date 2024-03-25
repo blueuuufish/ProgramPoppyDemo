@@ -7,6 +7,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/programpoppy-springbootdemo/pom.xml" />
         <option value="$PROJECT_DIR$/programpoppy-Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/programpoppy-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/programpoppy-spring-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="HELP.md" />
       </list>
     </option>
   </component>

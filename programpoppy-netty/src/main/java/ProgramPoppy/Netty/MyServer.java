@@ -28,7 +28,7 @@ public class MyServer {
                         }
                     });
             System.out.println("java技术爱好者的服务端已经准备就绪...");
-//          绑定端口号，启动服务端，同时抛出异常
+            // 绑定端口号，启动服务端，同时抛出异常
             ChannelFuture channelFuture = bootstrap.bind(666).sync();
             channelFuture.channel().closeFuture().sync();
         } finally {

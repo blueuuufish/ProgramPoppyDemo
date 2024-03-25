@@ -16,6 +16,8 @@
         <module>programpoppy-asyTool</module>
         <module>programpoppy-annotation</module>
         <module>programpoppy-JVM</module>
+        <module>programpoppy-dubboDemo</module>
+        <module>programpoppy-Job</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>

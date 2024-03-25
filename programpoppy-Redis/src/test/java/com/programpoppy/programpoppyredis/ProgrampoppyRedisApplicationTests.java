@@ -23,4 +23,9 @@ class ProgrampoppyRedisApplicationTests {
         System.out.println(name);
     }
 
+    @Test
+    void tryLcok() {
+        
+    }
+
 }
