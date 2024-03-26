@@ -18,6 +18,7 @@
         <module>programpoppy-JVM</module>
         <module>programpoppy-dubboDemo</module>
         <module>programpoppy-Job</module>
+        <module>programpoppy-io</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>
