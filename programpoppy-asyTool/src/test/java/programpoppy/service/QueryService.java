@@ -2,7 +2,6 @@ package programpoppy.service;
 
 import com.jd.platform.async.executor.Async;
 import com.jd.platform.async.wrapper.WorkerWrapper;
-import com.programpoppy.asyncTestDemo.TwentyForWorker;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.HashMap;

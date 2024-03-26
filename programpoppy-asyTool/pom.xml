@@ -29,26 +29,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
-
-
-        <!-- log4j2 日志门面 -->
         <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-api</artifactId>
-            <version>2.11.1</version>
-        </dependency>
-        <!-- log4j2 日志实面 -->
-        <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-core</artifactId>
-            <version>2.11.1</version>
-        </dependency>
-        <!-- junit 单元测试 -->
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-        </dependency>
+	        <groupId>com.gitee.jd-platform-opensource</groupId>
+	        <artifactId>asyncTool</artifactId>
+	        <version>V1.4-SNAPSHOT</version>
+    	</dependency>
     </dependencies>
 
 
