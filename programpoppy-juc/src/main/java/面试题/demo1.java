@@ -13,6 +13,5 @@ public class demo1 {
             }
         }, "t1");
         t1.start();
-        t1.join();
     }
 }

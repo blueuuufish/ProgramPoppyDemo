@@ -19,6 +19,7 @@
         <module>programpoppy-dubboDemo</module>
         <module>programpoppy-Job</module>
         <module>programpoppy-io</module>
+        <module>programpoppy-ASM</module>
 
     </modules>
     <name>ProgramPoppyDemo</name>

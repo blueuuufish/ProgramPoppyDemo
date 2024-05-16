@@ -12,27 +12,29 @@
         <module name="programpoppy-springbootdemo" />
         <module name="programpoppy-asyTool" />
         <module name="ProgramPoppy-nio" />
-        <module name="programpoppy-Redis" />
+        <module name="programpoppy-io" />
         <module name="ProgramPoppy-Sentinel" />
         <module name="programpoppy-JVM" />
+        <module name="programpoppy-redis" />
         <module name="programpoppy-netty" />
         <module name="programpoppy-annotation" />
         <module name="programpoppy-dubboDemo" />
         <module name="programpoppy-spring-demo" />
         <module name="programpoppy-juc" />
         <module name="programpoppy-log4j2" />
-        <module name="programpoppy-Job" />
+        <module name="programpoppy-ASM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="programpoppu" target="17" />
+      <module name="programpoppy-Job" target="17" />
       <module name="programpoppy-thread" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="programpoppy-Redis" options="-parameters" />
       <module name="programpoppy-rabbitmq" options="-parameters" />
+      <module name="programpoppy-redis" options="-parameters" />
       <module name="programpoppy-spring-demo" options="-parameters" />
       <module name="programpoppy-springbootdemo" options="-parameters" />
     </option>

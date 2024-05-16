@@ -1,4 +1,4 @@
-package org.ProgramPoppy;
+package com.ProgramPoppy;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
